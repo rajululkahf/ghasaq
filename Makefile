@@ -1,6 +1,6 @@
 TEX=pdflatex
 BIB=bibtex
-NAME=ghaaseq
+NAME=ghasaq
 
 .PHONY: all
 all: $(NAME).pdf
